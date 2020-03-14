@@ -1,0 +1,17 @@
+configuration {
+	width: 100;
+	lines: 5;
+	columns: 1;
+	font: "DejaVu Sans 12";
+	bw: 0;
+	location: 0;
+	padding: 00;
+	eh: 1;
+	separator-style: "none";
+	hide-scrollbar: true; 
+	theme: "~/.config/rofi/theme.rasi";
+	color-normal: "#2d303b, #ffffff, #2d303b, #2d303b, #9f7cd0"; 
+	color-urgent: "#002d303b, #ffffff, #002d303b, #002d303b, #9f7cd0";
+	color-active: "#002d303b, #ffffff, #002d303b, #002d303b, #9f7cd0";
+	color-window: "#2d303b, #ffffff, #ffffff";
+}
